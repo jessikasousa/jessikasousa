@@ -39,7 +39,6 @@
   <span><img src="https://visitor-badge.laobi.icu/badge?page_id=jessikasousa" alt="Jessika"/></span>
   <a href="https://github.com/jessikasousa" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/jessikasousa" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/jssikapaola" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=lat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href = "mailto:jessikapaolla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>"></a>
   <a href="https://open.spotify.com/user/jssikapaola" target="_blank"><img height="20" width="80" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://account.xbox.com/pt-br/profile?gamertag=jssikapaola" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Xbox-107C10?style=lat-square&logo=xbox&logoColor=white" alt="Xbox"></a><br>
