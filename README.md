@@ -1,4 +1,4 @@
-## Hello, I'm Jéssika.
+## Hi, I'm Jéssika.
 
 - 🌎 I'm from Minas Gerais and I'm currently living in São Paulo.
 - 💬 About me: I have a degree in Architecture and Urbanism from UFOP and am in the process of transitioning my career; my passion for design and technology led me to programming, so I decided to invest in training.
