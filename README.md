@@ -9,18 +9,25 @@
 
 ---
 
-## About me
+## Jéssika Sousa
 
-Software engineer with experience across the full stack — backend services,
-frontend interfaces, and UX/UI with prototyping — working in environments
-where reliability and observability are non-negotiable.
+Software Engineer focused on platform engineering, 
+distributed systems, and applied AI.
 
-I've worked at **Mercado Livre**, **Banco PAN**, and **Getrak**, moving between
-distributed systems, web interfaces, and internal products — often acting as a
-technical reference, shaping architecture, and exploring applied AI.
+Currently building and evolving high-criticality internal 
+systems at Mercado Livre — with focus on reliability, 
+observability, and the intersection between platform 
+engineering and LLM integration.
 
-My background in **Architecture and Urban Planning** gives me a systemic lens
-that shapes how I approach software design and complexity.
+Background spans regulated financial environments (Banco PAN), 
+high-volume distributed microservices (Getrak), and fullstack 
+financial systems (Conveste) — always with attention to 
+architectural health and long-term system resilience.
+
+What shapes how I think: a degree in Architecture and Urban 
+Planning. I learned to read how structural decisions compound 
+over time. I apply the same reasoning to software.
+I look for where the system will break before it does.
 
 ---
 
